@@ -1,13 +1,13 @@
 # vscode-notes
 Personal collection of VS Code related tips, tricks and shortcuts
 
-## Visuals
+## Visuals :eyes:
 Look and feel
 
 ##### Zen mode
 `Removes distractions`
 
-## File navigation
+## File navigation :arrow_up_down:
 Moving around
 
 ##### CMD+Shift PP
