@@ -5,10 +5,10 @@ Personal collection of VS Code related tips, tricks and shortcuts
 Look and feel
 
 ##### Zen mode
-`Removes distractions`
+> Removes distractions
 
 ## File navigation :arrow_up_down:
 Moving around
 
 ##### CMD+Shift PP
-`Open last file`
+> Open last file
