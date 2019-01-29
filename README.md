@@ -38,4 +38,6 @@ Look and feel
 **Open Last Files**
 `CMD+PP`
 
+**Toggle Terminal**
+`CTRL+SHIFT+`
 
