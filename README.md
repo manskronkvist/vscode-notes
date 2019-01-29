@@ -1,5 +1,5 @@
 # vscode-notes
-VS Code related tips, tricks and shortcuts
+VS Code related things, mostly for myself.
 
 ## Javascript Specific
 
