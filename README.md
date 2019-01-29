@@ -16,8 +16,8 @@ This assumes you have already set up the project, installed eslint, and configur
 In VS Code, press `CMD+SHIFT+X` and search for `Prettier - Code formatter` to find it.
 
 **3. Enable prettier-eslint in VS Code**  
-Open the user settings by pressing `CMD+SHIFT+P` and search for settings.
-In the settings, search for the setting ´Prettier: Eslint Integration´. Click the checkbox to enable the setting.
+Open the user settings by pressing `CMD+SHIFT+P` and search for settings.  
+In the settings, search for the setting `Prettier: Eslint Integration`. Click the checkbox to enable the setting.
 
 **4. Restart VS Code**  
 
