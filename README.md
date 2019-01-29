@@ -39,5 +39,5 @@ Look and feel
 `CMD+PP`
 
 **Toggle Terminal**
-`CTRL+SHIFT+`
+`CTRL+SHIFT+``
 
