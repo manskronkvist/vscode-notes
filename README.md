@@ -1,7 +1,7 @@
 # vscode-notes
 VS Code related things, mostly for myself.
 
-## Javascript Specific
+## Javascript
 
 ### Using Prettier with ESlint
 This setup will use Prettier to format the code based on the rules in your .eslintrc file. Meaning it will insert semicolons if required, set the correct number of spaces in your indents etc. etc.
