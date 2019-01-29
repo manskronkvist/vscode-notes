@@ -32,6 +32,9 @@ Look and feel
 **Zen mode**
 `CMD+K Z`
 
+**Search and open files in current project**
+`CMD+P`
+
 **Open Last Files**
 `CMD+PP`
 
