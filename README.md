@@ -13,7 +13,7 @@ This assumes you have already set up the project, installed eslint, and configur
 `npm install -D prettier-eslint`
 
 2. Install the prettier plugin for VS Code.
-In VS Code, press `CMD+SHIFT+X` and search for `Prettier - Code formatter`
+In VS Code, press `CMD+SHIFT+X` and search for `Prettier - Code formatter` to find it.
 
 3. Enable prettier-eslint in VS Code
 Open the user settings by pressing `CMD+SHIFT+P` and search for settings.
