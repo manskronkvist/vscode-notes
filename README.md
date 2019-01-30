@@ -55,6 +55,6 @@ Look and feel
 **Open Last Files**
 `CMD+PP`
 
-### Links
+## Links
 http://ryanking.com/blog/vs-code-for-vim-users/
 
