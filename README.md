@@ -20,6 +20,7 @@ Open the user settings by pressing `CMD+SHIFT+P` and search for settings.
 In the settings, search for the setting `Prettier: Eslint Integration`. Click the checkbox to enable the setting.
 
 ### Git Project Manager (GPM)
+![GPM](https://raw.githubusercontent.com/manskronkvist/vscode-notes/master/gpm.png)
 For easily navigating between project directly inside VS Code   
 
 **1. Install the Git Project Manager extension in VS Code.**  
