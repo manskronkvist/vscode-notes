@@ -19,6 +19,22 @@ In VS Code, press `CMD+SHIFT+X` and search for `Prettier - Code formatter` to fi
 Open the user settings by pressing `CMD+SHIFT+P` and search for settings.  
 In the settings, search for the setting `Prettier: Eslint Integration`. Click the checkbox to enable the setting.
 
+### Git Project Manager (GPM)
+For easily navigating between project directly inside VS Code   
+
+**1. Install the Git Project Manager extension in VS Code.**  
+
+**2. Add configuration** 
+In your you VS Code settings JSON-file, add these lines:
+```JSON
+    "gitProjectManager.baseProjectsFolders": [
+        "~/projects"
+    ],
+    "gitProjectManager.codePath": "code -r",
+```
+Replace the project folder paths with the ones you want.  
+The `code -r` in the last line will make sure that projects are opened in the same instance of VS Code (a.k.a. it doesn't open a new window.)
+
 **4. Restart VS Code**  
 
 Now when you open a javascript file inside a project with eslint and prettier-eslnit installed, you can simply press
