@@ -42,6 +42,29 @@ Now when you open a javascript file inside a project with eslint and prettier-es
 `SHIFT+OPTION+F`and the code will be magically formatted according to the rules in your .eslintrc. 
 No more trying to manually insert the correct amount of spaces!
 
+## Snippets
+
+**Mocha Test Boilerplate**
+```JSON
+"Boilerplate Mocha Test": {
+  "prefix": "mtt",
+  "body": [
+    "/* global describe, it */",
+    "const assert = require('assert');",
+    "const ${1:moduleName} = require('${2:modulePath}')",
+    "",
+    "describe('Test Suite', () => {",
+    "  describe('€{3:info}', () => {",
+    "    it('€{4:description}', function() {",
+    "      assert.equal('C', ${5:functionName});",
+    "    });",
+    "  });",
+    "});",
+    ""
+  ],
+  "description": "Boilerplate Mocha Test"
+}
+```
 
 ## Keyboard shortcuts
 Look and feel
