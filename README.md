@@ -56,7 +56,7 @@ No more trying to manually insert the correct amount of spaces!
     "describe('Test Suite', () => {",
     "  describe('€{3:info}', () => {",
     "    it('€{4:description}', function() {",
-    "      assert.equal('C', ${5:functionName});",
+    "      assert.equal(${5:expected}, ${6:functionName});",
     "    });",
     "  });",
     "});",
