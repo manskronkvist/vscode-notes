@@ -66,6 +66,10 @@ No more trying to manually insert the correct amount of spaces!
 }
 ```
 
+## Wrapping a blick with a tag.
+When you have a block of HTML/JSX and want to surround it with a new tag (a <div> for example.)
+Highligt the text you want to surround, hit `CMD+Shift+P`, search for `Wrap abbreviation`, hit enter and enter whatever emmet expression you want. 
+
 ## Keyboard shortcuts
 Look and feel
 
