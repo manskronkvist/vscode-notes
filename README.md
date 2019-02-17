@@ -76,8 +76,8 @@ Highligt the text you want to surround, hit `CMD+Shift+P`, search for `Wrap abbr
 
 **File Explorer** - `CMD+SHIFT+E`  
 **Search** - `CMD+SHIFT+F`  
-**Extensions** - `CMD+SHIF+X`  
-**Version Control** - `CONTROL+SHIF+G`
+**Extensions** - `CMD+SHIFT+X`  
+**Version Control** - `CONTROL+SHIFT+G`
 
 ## Other Keyboard shortcuts
 
