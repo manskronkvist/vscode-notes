@@ -70,17 +70,21 @@ No more trying to manually insert the correct amount of spaces!
 When you have a block of HTML/JSX and want to surround it with a new tag (a `<div>` for example.)
 Highligt the text you want to surround, hit `CMD+Shift+P`, search for `Wrap abbreviation`, hit enter and enter whatever emmet expression you want. 
 
-## Keyboard shortcuts
-Look and feel
+## Sidebar Navigation
 
-**Zen mode**
-`CMD+K Z`
+**Hide/Show Sidebar** - `CMD+B`  
 
-**Search and open files in current project**
-`CMD+P`
+**File Explorer** - `CMD+SHIFT+E`  
+**Search** - `CMD+SHIFT+F`  
+**Extensions** - `CMD+SHIF+X`  
 
-**Open Last Files**
-`CMD+PP`
+## Other Keyboard shortcuts
+
+**Zen mode** - `CMD+K Z`
+
+**Search and open files in current project** - `CMD+P`
+
+**Open Last Files** - `CMD+PP`
 
 ## Links
 http://ryanking.com/blog/vs-code-for-vim-users/
